@@ -1,2 +1,0 @@
-# Jodelike
-React Native App
